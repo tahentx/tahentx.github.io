@@ -12,3 +12,21 @@ The second challenge was the time interval between measurements. The cumulative 
 There were certainly more obstacles. But I gained an appreciation for the less glamorous part of the work.
 
 My contribution was to try to find headcount data for the big tech companies in the city and locate the offices in relation to the highest volume stations that we identified. Unfortunately, the data collection was manual, as you can tell from the hard-coded values in the code below.
+
+```
+stations = [
+    '14th/Union Sq.',
+    'Penn',
+    'Grand Central',
+    'Port Authority',
+]
+
+pct = [16,7,1,1]
+
+sns.barplot(stations,pct)
+plt.xlabel("Top Stations")
+plt.ylabel("Headcount as % of Ridership")
+plt.title("Headcount Near Top Stations")
+plt.savefig(fname='tech')
+
+```
