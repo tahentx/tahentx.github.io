@@ -1,7 +1,3 @@
----
-layout: post
-title: What's Jekyll?
----
 
 This week, my colleagues and I were tasked with exploring NYC's MTA turnstyle data. Our mandate was to identify the best stations for a women's organization to do outreach. We supplemented the data with some demographic data, but the core of our efforts were on munging and tidying the dataset for analysis. It was all of our first experience doing real EDA. Data can be found [here] (http://web.mta.info/developers/turnstile.html).
 
@@ -30,3 +26,4 @@ plt.title("Headcount Near Top Stations")
 plt.savefig(fname='tech')
 
 ```
+
