@@ -1,0 +1,1 @@
+Whoever wrote the itertools library deserves a Medal of Freedom, a Nobel Peace Prize and a Grammy. That is all. 
