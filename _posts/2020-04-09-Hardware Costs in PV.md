@@ -1,6 +1,3 @@
-## Hardware Costs in PV
-#### April 9, 2020
-
 I was the performance manager for Antelope Valley Solar Project, also known as Solar Star, which at one point, was the largest solar power plant in North America. The array inverters were supplied by two OEMs: SMA and ABB. I became quite familiar with ABB from reviewing it's operational data, and given that they sold almost 250MW of capacity to that project alone, my (erroneous) sense was that they were doing quite well in the inverter market. 
 
 And then last summer they exited the market. At the time I was shocked, but this graph explains a lot.
