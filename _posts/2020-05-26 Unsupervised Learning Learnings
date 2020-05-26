@@ -1,0 +1,7 @@
+I shipped my first unsupervised learning model last week, and I still feel a high from it. It was my best project so far, for three reasons. 
+
+First, the results were actually produced insight, which is not always the case. In the commit messages, I found clear, distinct themes. Secondly, I learned a lot during EDA. I experimented with the other clustering models to compare and contrast the results. Lastly, I shipped the API in a Docker container - something that I had been wanting to learn how to do for a long time. 
+
+My next project is a return to my solar roots. The focus will be applying Bayesian regression to PV module soiling. 
+
+Check out the README.md and the code here: https://github.com/tahentx/arrow_nlp
